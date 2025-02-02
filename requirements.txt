@@ -1,0 +1,6 @@
+torch
+faiss-gpu #or faiss-cpu
+transformers
+numpy
+sklearn
+sentence_transformers
